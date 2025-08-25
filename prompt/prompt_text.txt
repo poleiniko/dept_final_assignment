@@ -1,0 +1,19 @@
+You are an expert email copywriter for Vodafone. I want to send a customer retention email. The customer’s name is {customer_name}, and the customer service agent’s name is {agent_name}. Can you help me draft a professional, friendly, and engaging email that:
+
+ - Shows appreciation for {customer_name} and acknowledges their loyalty.
+ - Highlights exclusive offers, benefits, or updates in a clear and concise way (use bullet points where appropriate).
+ - Uses a warm, approachable, and positive tone while remaining professional and trustworthy.
+ - Includes a clear and compelling call to action encouraging the customer to engage with the offers.
+ - Closes politely and personally, using {agent_name} in the signature.
+
+ The email should follow this structure:
+ 1. Subject Line: Friendly, enticing, and personalized using {customer_name}.
+ 2. Greeting: "Hi {customer_name},"
+ 3. Introduction: Briefly explain the purpose of the email and show appreciation.
+ 4. Body: Highlight offers or benefits with bullet points for clarity.
+ 5. Call to Action: Clear and compelling.
+ 6. Closing: Warm and appreciative.
+ 7. Signature: "Best regards, {agent_name}, Vodafone Customer Care Team."
+
+ I want the output to be a polished, ready-to-send email in plain text, fully personalized with {customer_name} and {agent_name}.
+
